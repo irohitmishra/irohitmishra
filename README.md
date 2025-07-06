@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rohit Kumar
+# Hi, I'm Rohit Kumar
 
 🎯 **Aspiring Data Analyst | Python | Power BI | SQL | Excel**
 
